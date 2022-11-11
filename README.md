@@ -33,8 +33,11 @@ The RBF of hidden neuron as gaussian function
 ## ALGORIHM:
 
 1.Import the necessary libraries of python.
+
 2.After that, create a function named as gaussian_rbf to find the exponential form for the vector norm
+
 3.And then create a function to plot the hidden space based on the binary inputs
+
 4.Then create RBF network to predict the XOR data
 
 ## PROGRAM:
